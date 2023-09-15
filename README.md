@@ -11,3 +11,5 @@ This is a new line writed to test Git and VS fonctionalities
 
 Yet another line wrote here
 
+Another line
+
